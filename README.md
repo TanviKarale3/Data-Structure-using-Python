@@ -28,4 +28,4 @@ Maharshtra India
 
    * [Array Implementation](https://github.com/TanviKarale3/Data-Structure-using-Python/commit/c648d5bbfac08e64498054618b8fb65a9cab0969)
     
-   * [Reversing AN Array](https://github.com/TanviKarale3/Data-Structure-using-Python/blob/main/Reversing%20Array.py)
+   * [Reversing An Array](https://github.com/TanviKarale3/Data-Structure-using-Python/blob/main/Reversing%20Array.py)
