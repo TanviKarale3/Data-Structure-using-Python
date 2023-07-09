@@ -24,5 +24,6 @@ Maharshtra India
 - [@tanvikarale3](https://github.com/TanviKarale3)
 ----
 
+# Array
 
-
+   * [Array Implementation](https://github.com/TanviKarale3/Data-Structure-using-Python/commit/c648d5bbfac08e64498054618b8fb65a9cab0969)
